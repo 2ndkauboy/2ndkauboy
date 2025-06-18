@@ -7,3 +7,7 @@ In 2009, I've written my first WordPress plugin and published it into the reposi
 When I'm not writing code, I help organize community events such as the local [WP Meetup Berlin](https://wpmeetup-berlin.de) or [WordCamp Europe](https://europe.wordcamp.org).
 
 I'm [open for sponsoring](https://github.com/sponsors/2ndkauboy). Your sponsorship would help me to cover hosting cost for my blog as well as travelling costs to organize events and enable me to volunteer more time contributing to the WordPress community.
+
+## My WordPress contributions
+
+![WordPress team Bernhard contributed to](https://cardpress.us/card?username=Kau-Boy&header=false)
